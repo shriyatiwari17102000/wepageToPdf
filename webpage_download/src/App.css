@@ -1,0 +1,13 @@
+
+*{
+  text-align: center;
+}
+.butn{
+  padding: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 11px;
+}
